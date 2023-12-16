@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emlak", "Emlak\Emlak.csproj", "{3BE0C110-C848-4102-811D-691E82330B14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmlakOtomasyonu", "EmlakOtomasyonu\EmlakOtomasyonu.csproj", "{437DC5F5-57D4-470F-B8DD-42B5BED359FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C76A0D32-D573-414E-8104-0F974393866D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\users.txt = ..\..\users.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BE0C110-C848-4102-811D-691E82330B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE0C110-C848-4102-811D-691E82330B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE0C110-C848-4102-811D-691E82330B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE0C110-C848-4102-811D-691E82330B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437DC5F5-57D4-470F-B8DD-42B5BED359FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437DC5F5-57D4-470F-B8DD-42B5BED359FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437DC5F5-57D4-470F-B8DD-42B5BED359FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437DC5F5-57D4-470F-B8DD-42B5BED359FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C659725-BDA0-444A-AA09-5C0995AAFEF2}
+	EndGlobalSection
+EndGlobal
